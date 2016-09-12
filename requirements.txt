@@ -14,7 +14,6 @@ meld3==1.0.2
 Pillow==3.1.1
 PyJWT==1.4.0
 pysqlite==2.8.1
-pyweed==0.3.3
 requests==2.9.1
 six==1.10.0
 supervisor==3.2.1
