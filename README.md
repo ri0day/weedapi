@@ -2,17 +2,17 @@
 seaweedfs http api add jwt authentication 
 
 ```
-©¦  gen_conf.sh #configure file generator
-©¦  README.md  readme
-©¦
-©À©¤api
-©¦      test_weed_api_delete.py
-©¦      test_weed_api_read.py
-©¦      test_weed_api_update.py
-©¦      test_weed_api_upload.py
-©¦      weed_api.py   #http api 
-©¦
-©¸©¤bin
+â”‚  gen_conf.sh #configure file generator
+â”‚  README.md  readme
+â”‚
+â”œâ”€api
+â”‚      test_weed_api_delete.py
+â”‚      test_weed_api_read.py
+â”‚      test_weed_api_update.py
+â”‚      test_weed_api_upload.py
+â”‚      weed_api.py   #http api 
+â”‚
+â””â”€bin
         weed  seaweedfs binary file
 
 ```
